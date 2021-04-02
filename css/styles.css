@@ -1,0 +1,41 @@
+.intro h1 {
+  text-align: center;
+  color: antiquewhite;
+  background-color: black;
+}
+.intro img {
+  float: right;
+  height: 30%;
+  width: 30%;
+}
+.about h2 {
+  color: darkblue;
+  text-align: center;
+}
+.about p {
+  font-style: italic;
+}
+.professional h2 {
+  color: darkblue;
+  text-align: center;
+  font-size: xx-large;
+}
+.professional h3 {
+  font-size: x-large;
+}
+.professional h4 {
+  font-size: larger;
+  font-style: italic;
+}
+.professional p {
+
+}
+
+.education h2 {
+color: darkblue;
+font-weight: 5010;
+font-style: italic;
+}
+.education li {
+  font-style: italic;
+}

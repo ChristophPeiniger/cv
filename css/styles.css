@@ -41,19 +41,26 @@ font-style: italic;
 }
 
 .education {
+  padding: 15px;
   width: 380px;
   float: left;
-  padding: 20px;
+  border: 2px solid black;
+  margin: 2px;
 }
 
 .about {
+  padding: 15px;
   width: 380px;
   float: left;
-  padding: 20px;
+  border: 2px solid black;
+  margin: 2px;
+
 }
 
 .professional {
+  padding: 15px;
   width: 380px;
   float: left;
-  padding: 20px;
+  border: 2px solid black;
+  margin: 2px;
 }

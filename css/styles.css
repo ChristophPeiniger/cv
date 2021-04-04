@@ -39,3 +39,21 @@ font-style: italic;
 .education li {
   font-style: italic;
 }
+
+.education {
+  width: 380px;
+  float: left;
+  padding: 20px;
+}
+
+.about {
+  width: 380px;
+  float: left;
+  padding: 20px;
+}
+
+.professional {
+  width: 380px;
+  float: left;
+  padding: 20px;
+}
